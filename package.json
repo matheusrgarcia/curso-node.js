@@ -1,0 +1,32 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "Curso de node.js",
+  "main": "index.js",
+  "dependencies": {
+    "ansi-styles": "^4.3.0",
+    "chalk": "^4.1.2",
+    "color-convert": "^2.0.1",
+    "color-name": "^1.1.4",
+    "has-flag": "^4.0.0",
+    "minimist": "^1.2.6",
+    "supports-color": "^7.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusrgarcia/curso-node.js.git"
+  },
+  "keywords": [
+    "node.js",
+    "javascript"
+  ],
+  "author": "Matheus Ribeiro Garcia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matheusrgarcia/curso-node.js/issues"
+  },
+  "homepage": "https://github.com/matheusrgarcia/curso-node.js#readme"
+}
